@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Matching Animals</string>
+    <string name="welcome">welcome to matching animals \n \n choose level</string>
+    <string name="strlevel1">Level 1</string>
+    <string name="strlevel2">Level 2</string>
+    <string name="strlevel3">Level 3</string>
+</resources>
